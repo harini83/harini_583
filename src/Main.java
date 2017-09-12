@@ -6,6 +6,8 @@ public class Main {
 		//Please check that your code works and has no 
 		//compilation problems before to submit
 		student s= new student();
+		s.getid();
+		s.getFulName();
+		s.getBirthDate();
 	}
-
 }
